@@ -1,4 +1,4 @@
-# Wii Sports "Strategy Steps" Statistical Simulator
+# Wii Party "Strategy Steps" Statistical Simulator
 
 A Java-based simulation engine designed to replicate the mechanics of the *Strategy Steps* game from *Wii Sports Resort*. This project utilizes automated game logic and Monte Carlo simulation principles to analyze win-rate probabilities under specific, constrained player strategies.
 
@@ -29,10 +29,10 @@ This application was engineered using strict **Object-Oriented Programming (OOP)
 * **Modular Strategy Pattern:** Built to easily swap out player AI behaviors (e.g., comparing the "Always 1" strategy against "Always 3", "Randomized", or "Risk-Averse" algorithms).
 
 ### System Design Overview
-* `GameEngine.java`: Manages core loop, state transitions, and rule enforcement.
-* `Board.java`: Recreates the spatial matrix of the board, handling hazard coordinates and player positional mapping.
-* `Player.java` / `Strategy.java`: Encapsulates decision-making logic, separating player state from behavioral choices.
-* `SimulationSuite.java`: Handles mass iteration, multi-threading [if applicable], and data aggregation.
+* `Main.java`: Where to Run
+* `StrategyStepsLogic`: Recreates the game logic.
+* `Player.java` / `RandomPlayer.java` / '  `GreedyPlayer.java` : Encapsulates decision-making logic, separating player state from behavioral choices.
+
 
 ---
 
