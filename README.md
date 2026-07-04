@@ -1,2 +1,3 @@
 # Wii-Party-Strategy-Steps-Statistical-Simulator
-"A Java-based simulation engine and Monte Carlo analyzer designed to calculate optimal winning probabilities and strategy metrics for the Wii Party game 'Strategy Steps'."
+A Java-based simulation engine and Monte Carlo analyzer designed to calculate optimal winning probabilities and strategy metrics for the Wii Party game 'Strategy Steps'
+https://wiisports.fandom.com/wiki/Strategy_Steps
