@@ -1,6 +1,6 @@
 # Wii Party "Strategy Steps" Statistical Simulator
 
-A Java-based simulation engine designed to replicate the mechanics of the *Strategy Steps* game from *Wii Sports Resort*. This project utilizes automated game logic and Monte Carlo simulation principles to analyze win-rate probabilities under specific, constrained player strategies.
+A Java-based simulation engine designed to replicate the mechanics of the *Strategy Steps* game from  Wii Party. This project utilizes automated game logic and Monte Carlo simulation principles to analyze win-rate probabilities under specific, constrained player strategies.
 
 [![Java Version](https://img.shields.io/badge/Java-17%2B-orange.svg)](https://www.oracle.com/java/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
