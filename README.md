@@ -14,9 +14,9 @@ The primary objective of this project was to answer a specific game-theory quest
 
 ### Executive Summary of Results
 After running **[e.g., 100,000]** simulated games pitting the "Always Pick 1" strategy against [e.g., standard randomized CPU behavior], the data yielded the following insights:
-* **"Always Pick 1" Win Rate:** `1.1%`
-* **"Always Pick 3" Win Rate:** `6.1%`
-* **"Always Pick 5" Win Rate:** `91%`
+* **"Only Pick 1" Win Rate:** `1.1%`
+* **"Only Pick 3" Win Rate:** `6.1%`
+* **"Only Pick 5" Win Rate:** `91%`
 * **Average Game Length:** `XX` turns
 * **Key Finding:** [depite being greedu, picking 5 everytime leads the highest win rate to 3 randomized cpu]
 
