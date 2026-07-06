@@ -17,7 +17,7 @@ After running **[e.g., 100,000]** simulated games pitting the "Always Pick 1" st
 * **"Only Pick 1" Win Rate:** `1.1%`
 * **"Only Pick 3" Win Rate:** `6.1%`
 * **"Only Pick 5" Win Rate:** `91%`
-* **Key Finding:** [depite being greedy, picking 5 everytime leads the highest win rate to 3 randomized cpu]
+* **Key Finding:** depite being greedy, picking 5 everytime leads the highest win rate to 3 randomized cpu
 
 ---
 
